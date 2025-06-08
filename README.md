@@ -1,5 +1,5 @@
 ## Привет!
-<img src="https://github.com/eddaru/ed_gif/blob/main/985c70c60d24e640da55fa004fbe8efb.jpg" width="500">
+<img src="https://github.com/eddaru/ed_gif/blob/main/985c70c60d24e640da55fa004fbe8efb.jpg" width="200">
 
 
 ![](https://github.com/eddaru/ed_gif/blob/main/Flow%204%40512p-25fps.gif)
