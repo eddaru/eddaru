@@ -1,8 +1,18 @@
 ## Привет!
-1. Пункт
-	1. Подпункт
-		1. Подподпункт
-  2. 
+<div align='left' id="More_information">
+    <details>
+        <summary align="left">📁 <strong>More information.</strong></summary>
+        <ul align="left">
+            <li>🔭 I am currently working on both soft and hard skills.</li>
+            <li>🌱 I am currently studying</li>
+            <li>👯 I will be happy to join your projects!</li>
+            <li>🤔 I would be very grateful if you would join me.</li>
+            <li>😄 Pronouns: <code>[Nikita, Nikitos, Nik, Naivrick]</code></li>
+            <li>⚡ Fun fact: <strong>I'm a red-haired person.</strong></li>
+        </ul>
+    </details>
+</div>
+
 <img src="https://github.com/eddaru/ed_gif/blob/main/985c70c60d24e640da55fa004fbe8efb.jpg" width="200">
 
 
