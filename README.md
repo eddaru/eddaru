@@ -3,12 +3,7 @@
     <details>
         <summary align="left">📷 <strong>Фотография.</strong></summary>
         <ul align="left">
-            <li>🔭 I am currently working on both soft and hard skills.</li>
-            <li>🌱 I am currently studying</li>
-            <li>👯 I will be happy to join your projects!</li>
-            <li>🤔 I would be very grateful if you would join me.</li>
-            <li>😄 Pronouns: <code>[Nikita, Nikitos, Nik, Naivrick]</code></li>
-            <li>⚡ Fun fact: <strong>I'm a red-haired person.</strong></li>
+            <li>На данный момент пробую себя в разных направлениях, люблю советскую оптику🥸</li
         </ul>
     </details>
 </div>
