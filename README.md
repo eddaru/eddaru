@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+![](https://github.com/eddaru/ed_gif/blob/main/Flow%204%40512p-25fps.gif)
 <!--
 **eddaru/eddaru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
