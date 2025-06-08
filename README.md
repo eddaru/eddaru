@@ -1,7 +1,7 @@
 ## Привет!
-<div align='left' id="More_information">
+<div align='left' id="Фотография">
     <details>
-        <summary align="left">📁 <strong>More information.</strong></summary>
+        <summary align="left">📷 <strong>Фотография.</strong></summary>
         <ul align="left">
             <li>🔭 I am currently working on both soft and hard skills.</li>
             <li>🌱 I am currently studying</li>
