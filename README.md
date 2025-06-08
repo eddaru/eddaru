@@ -1,6 +1,7 @@
 ## Привет!
 <img src="https://github.com/eddaru/ed_gif/blob/main/985c70c60d24e640da55fa004fbe8efb.jpg" width="48">
-![Image alt](https://github.com/eddaru/ed_gif/blob/main/985c70c60d24e640da55fa004fbe8efb.jpg)
+
+
 ![](https://github.com/eddaru/ed_gif/blob/main/Flow%204%40512p-25fps.gif)
 <!--
 **eddaru/eddaru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
