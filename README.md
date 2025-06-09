@@ -33,7 +33,7 @@
 
 <div align='left' id="Ретушь и немного Photoshop">
     <details>
-        <summary align="left">📷 <strong>Ретушь и немного Photoshop</strong></summary>
+        <summary align="left">🧖‍♀️ <strong>Ретушь и немного Photoshop</strong></summary>
         <ul align="left">
             <li>Осваиваю ретушь высокого уровня, состояющую из D&B и частотки, заодно познаю Photoshop🫡 </li
         </ul>
