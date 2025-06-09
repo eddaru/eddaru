@@ -45,3 +45,6 @@
 Люблю русский пост-панк, панельки и тоску. Стараюсь развиваться в разных сферах, особенно люблю изучать смартфоны и познавать всё в сравнение. На данный момент работаю и немного учусь :D
 
 <img src="https://avatars.dzeninfra.ru/get-zen_doc/4347415/pub_6298977faab7844ea463fbce_629898140adb4215bce07af8/scale_1200" width="400">
+
+
+![](https://github.com/eddaru/eddaru/blob/output/github-contribution-grid-snake.svg)
